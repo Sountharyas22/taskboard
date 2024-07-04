@@ -1,0 +1,35 @@
+.socials{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.socials i{
+    font-size: 20px;
+    color: rgb(76, 27, 209);
+    padding: 0 10px;
+}
+.footer{
+    text-align: center;
+}
+.navbar-brand {
+  font-weight: bold;
+  font-size: xx-large;
+}
+.hero-section {
+  padding: 60px ;
+  text-align: center;
+}
+.hero-section h1 {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.hero-section p {
+  margin-bottom: 30px;
+}
+.feature-card {
+  border: none;
+  text-align: center;
+}
+.feature-card img {
+  max-width: 100%;
+  height: auto;
+}  
